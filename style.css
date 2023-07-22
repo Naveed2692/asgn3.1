@@ -1,0 +1,33 @@
+body{
+    width: 100%;
+   margin-left: 10%;
+}
+header,#nav,footer{
+    border: 2px solid black;
+    text-align: center;
+    width: 80%;
+    align-items: center;
+    height: 4vw;
+    margin: 2px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+div{
+    border: 2px solid black;
+    height: 30vw;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    float: left;
+    margin-top: 2px;
+}
+div.main{
+    width: 39%;
+    margin-top: 2px;
+}
+div.content{
+    width: 20%;
+    margin: 3px;
+}
